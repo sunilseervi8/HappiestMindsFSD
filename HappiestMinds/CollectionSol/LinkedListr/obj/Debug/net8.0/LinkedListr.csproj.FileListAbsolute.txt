@@ -1,0 +1,14 @@
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\bin\Debug\net8.0\LinkedListr.exe
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\bin\Debug\net8.0\LinkedListr.deps.json
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\bin\Debug\net8.0\LinkedListr.runtimeconfig.json
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\bin\Debug\net8.0\LinkedListr.dll
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\bin\Debug\net8.0\LinkedListr.pdb
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.AssemblyInfoInputs.cache
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.AssemblyInfo.cs
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.csproj.CoreCompileInputs.cache
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.dll
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\refint\LinkedListr.dll
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.pdb
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\LinkedListr.genruntimeconfig.cache
+C:\Users\zadmin\Desktop\HappiestMinds\CollectionSol\LinkedListr\obj\Debug\net8.0\ref\LinkedListr.dll

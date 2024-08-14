@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF24A1-BED9-498A-A92B-4300FED7930D}|Dictionaries\\Dictionaries.csproj|c:\\users\\zadmin\\desktop\\happiestminds\\collectionsol\\dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FF24A1-BED9-498A-A92B-4300FED7930D}|Dictionaries\\Dictionaries.csproj|solutionrelative:dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEB24A9-1787-442E-9981-80A8583E08C4}|LinkedListr\\LinkedListr.csproj|c:\\users\\zadmin\\desktop\\happiestminds\\collectionsol\\linkedlistr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEB24A9-1787-442E-9981-80A8583E08C4}|LinkedListr\\LinkedListr.csproj|solutionrelative:linkedlistr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A0BBD1-BB21-4152-85C4-92E9C9805667}|Collection\\Collection.csproj|c:\\users\\zadmin\\desktop\\happiestminds\\collectionsol\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A0BBD1-BB21-4152-85C4-92E9C9805667}|Collection\\Collection.csproj|solutionrelative:collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionaries\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\Dictionaries\\Program.cs",
+              "RelativeToolTip": "Dictionaries\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:22:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\LinkedListr\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedListr\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\LinkedListr\\Program.cs",
+              "RelativeToolTip": "LinkedListr\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:36:51.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Desktop\\HappiestMinds\\CollectionSol\\Collection\\Program.cs",
+              "RelativeToolTip": "Collection\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:04:24.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
